@@ -7,8 +7,8 @@ This Python script allows you to send a list of messages to a Discord channel at
 first Login your discord account and Inspect(F12) GO to console tab type:
 ```allow pasting```
 then paste this:
-    ```
-    (
+```bash
+(
     webpackChunkdiscord_app.push(
         [
             [''],
@@ -21,10 +21,10 @@ then paste this:
         ]
     ),
     m
-    ).find(
+).find(
     m => m?.exports?.default?.getToken !== void 0
-    ).exports.default.getToken()
-    ```
+).exports.default.getToken()
+```
 get discord token and save token without ''
 
 ## Installation
