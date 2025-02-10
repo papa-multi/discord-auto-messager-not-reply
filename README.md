@@ -56,6 +56,7 @@ get discord token and save token without ''
    ```
 ## What is channel id?
 Go to the channel where you want the bot to be active and copy last part of url.
+
 ![image](https://github.com/user-attachments/assets/5a516d29-2de4-476c-85f4-2ae1e5128412)
 
 
