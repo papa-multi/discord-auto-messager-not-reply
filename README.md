@@ -46,6 +46,7 @@ get discord token and save token without ''
     This is an automated message.
     Have a great day!
     ```
+    **Note: You can get sentences from Chatgpt or Groq**
 3. Install Prerequisites:
     ```bash
     pip install requests
